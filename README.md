@@ -16,4 +16,4 @@ This is a simple command-line based Number Guessing Game written in C#.
 
 ## Screenshot
 
-(<img width="421" alt="number_guessing" src="https://github.com/user-attachments/assets/279ec404-1590-49a3-9c0e-7f5f18197cad" />)
+<img width="421" alt="number_guessing" src="https://github.com/user-attachments/assets/279ec404-1590-49a3-9c0e-7f5f18197cad" />
